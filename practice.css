@@ -1365,3 +1365,7 @@ h1::after{
   color: red;
   background:yellow;
 }
+
+img{
+  opacity: 0.5;
+}
