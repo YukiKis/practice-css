@@ -1,0 +1,22 @@
+.card{
+  height: 450px;
+}
+
+.card-img{
+  height: 300px;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.card-img:nth-child(1){
+  background-image: url("beach-origin.jpg");
+}
+
+.card-img:nth-child(2){
+  background-image: url("book-origin.jpg")
+}
+
+.card-img:nth-child(3){
+  background-image: url("girl-origin.jpg")
+}
